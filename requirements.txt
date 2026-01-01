@@ -1,6 +1,11 @@
-fastapi==0.115.6
-uvicorn==0.32.1
-python-telegram-bot==21.6
-openai==1.57.0
-pypdf
+fastapi
+uvicorn
+python-dotenv
+python-telegram-bot==20.*
+openai
+httpx
+pydantic
+
+# NEW (for attachments)
 pymupdf
+pillow
