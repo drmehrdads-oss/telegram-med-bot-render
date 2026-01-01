@@ -2,3 +2,5 @@ fastapi==0.115.6
 uvicorn==0.32.1
 python-telegram-bot==21.6
 openai==1.57.0
+pypdf
+pymupdf
