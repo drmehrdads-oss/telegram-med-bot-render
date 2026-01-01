@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+python-telegram-bot==20.*
+openai
+httpx
+pydantic
+
+# NEW (for attachments)
+pymupdf
+pillow
